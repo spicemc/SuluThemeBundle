@@ -1,5 +1,5 @@
 {
-    "name": "sulu/theme-bundle",
+    "name": "spicemc/theme-bundle",
     "type": "sulu-bundle",
     "description": "The Sulu Bundle which provides theming functionality.",
     "license": "MIT",
@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": "^7.3 || ^8.0",
-        "sulu/sulu": "^2.4 || ^2.5@dev",
+        "sulu/sulu": "^2.4 || ^2.5@dev || ^3.0.0-alpha4 || 3.*",
         "symfony/config": "^4.4 || ^5.4 || ^6.0 || ^7.0",
         "symfony/dependency-injection": "^4.4 || ^5.4 || ^6.0 || ^7.0",
         "symfony/http-kernel": "^5.4 || ^6.0 || ^7.0",
